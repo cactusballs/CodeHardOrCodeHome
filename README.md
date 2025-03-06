@@ -2,4 +2,4 @@
 
 Our Huddlehive Hackathon Project 🐝
 
-Authors: Cat Conquest, Claire Evans, Edwina, Lottie Judge 
+Authors: Cat Conquest, Claire Evans, Edwina Omokaro, Lottie Judge 
