@@ -16,21 +16,21 @@ Steps to install and set up the project:
 ### Clone the repository
 git clone https://github.com/your-username/your-repo.git
 
-### Navigate to the project directory
+<!-- ### Navigate to the project directory
 
 `cd CodeHardorCodeHome`
 
 ## Install dependencies
 `npm install`  
 <!-- # or pip install -r requirements.txt -->
-
+<!-- 
 ## Usage
 
 Instructions on how to use the project:
 
-### Run the application
+### Run the application -->
 
-`npm start`  
+<!-- `npm start`   -->
 
 <!-- # or python main.py
 
