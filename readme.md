@@ -19,7 +19,7 @@ We are an app built to guide your signed up hackers from sign-up to attendance o
 Steps to install and set up the project:
 
 ### Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone git@github.com:cactusballs/CodeHardOrCodeHome.git
 
  ### Navigate to the project directory
 
@@ -40,7 +40,7 @@ use 'go live' extension or navigate to /CodeHardOrCodeHome/ in your localhost.
 * prompts to set up a whatsApp group, introduce yourself
 * read a link to an educational resources on git, agile ceremonies, presenting, etc.
 
-**Group chat in-app** to get teams talking: let's banish paranormal activity by getting the GC going! Engendering community in advance of the event can help ease nerves inspire ethusiasm.
+**Group chat in-app** to get teams talking: let's banish paranormal activity by getting the GC going! Engendering community in advance of the event can help ease nerves inspire enthusiasm.
 
 **Reward points** to be earned through team interactions and challenge completion. Reward points can then be used as per hackathon's needs: a headstart in a scavenger head, exchange for hackathon 'loot'.
 
@@ -63,6 +63,6 @@ Open a pull request
 
 Authors: Lottie, Claire, Edwina, Elspeth, Cat
 
-Email: your.email@example.com
+Email: info@spook.com
 
-GitHub: your-username
+GitHub: cactusballs
