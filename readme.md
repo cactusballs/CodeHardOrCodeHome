@@ -9,6 +9,7 @@ We are an app built to guide your signed up hackers from sign-up to attendance o
 ## Important links
 
 [Figma designs](https://www.figma.com/design/kmivdrAeo9ep8K6o0MJ1ka/Spook-Wireframes?node-id=1-2)
+
 [Github Pages continuous deployment](https://cactusballs.github.io/CodeHardOrCodeHome/index.html)
 
 ## Installation
