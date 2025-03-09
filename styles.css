@@ -97,6 +97,12 @@ form {
     margin-top: 15px;
 }
 
+#challengeBut{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
 label {
     display: block;
     margin-bottom: 10px;
