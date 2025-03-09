@@ -12,6 +12,8 @@ We are an app built to guide your signed up hackers from sign-up to attendance o
 
 [Github Pages continuous deployment](https://cactusballs.github.io/CodeHardOrCodeHome/index.html)
 
+[Extended slides](./Spooky%20slides-%20extended%20deck.pdf)
+
 ## Installation
 
 Steps to install and set up the project:
