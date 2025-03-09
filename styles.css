@@ -54,6 +54,7 @@ body {
     display: flex;
     justify-content: space-around;
     padding: 15px;
+    padding-top: 5px;
     font-size: 24px;
 }
 
@@ -104,4 +105,8 @@ label {
 
 input[type="radio"] {
     margin-right: 8px;
+}
+
+#title {
+    color:#f4eeec;
 }
